@@ -164,14 +164,6 @@
         <mxCell id="9att25W2R8FLM5yaxXD5-71" value="&lt;div&gt;notifies&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="210" y="510" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="9att25W2R8FLM5yaxXD5-72" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="420" y="110" width="85" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="9att25W2R8FLM5yaxXD5-74" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.37;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;startFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="9att25W2R8FLM5yaxXD5-72" target="13">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="462" y="170" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
