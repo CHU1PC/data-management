@@ -115,7 +115,7 @@
             <mxPoint x="450" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sfxNwk7BuR1qC2Qj_iVI-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;endFill=0;startArrow=ERoneToMany;" edge="1" parent="1" source="9att25W2R8FLM5yaxXD5-59" target="sfxNwk7BuR1qC2Qj_iVI-59">
+        <mxCell id="sfxNwk7BuR1qC2Qj_iVI-63" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;startFill=0;startArrow=ERoneToMany;" edge="1" parent="1" source="9att25W2R8FLM5yaxXD5-59" target="sfxNwk7BuR1qC2Qj_iVI-59">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9att25W2R8FLM5yaxXD5-59" value="&lt;div&gt;Teacher&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
@@ -168,16 +168,28 @@
           <mxGeometry x="210" y="510" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9att25W2R8FLM5yaxXD5-78" value="&lt;div&gt;Elective&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="280" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="590" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sfxNwk7BuR1qC2Qj_iVI-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="9att25W2R8FLM5yaxXD5-78" target="9att25W2R8FLM5yaxXD5-78">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sfxNwk7BuR1qC2Qj_iVI-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=ERzeroToMany;endFill=0;" edge="1" parent="1" source="sfxNwk7BuR1qC2Qj_iVI-59" target="9att25W2R8FLM5yaxXD5-78">
+        <mxCell id="sfxNwk7BuR1qC2Qj_iVI-64" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=ERoneToMany;endFill=0;" edge="1" parent="1" source="sfxNwk7BuR1qC2Qj_iVI-59" target="9att25W2R8FLM5yaxXD5-78">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sfxNwk7BuR1qC2Qj_iVI-59" value="teaches" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="560" y="317.5" width="80" height="45" as="geometry" />
+          <mxGeometry x="730" y="359.5" width="80" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="sfxNwk7BuR1qC2Qj_iVI-65" value="Name" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="800" y="510" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sfxNwk7BuR1qC2Qj_iVI-67" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="sfxNwk7BuR1qC2Qj_iVI-66" target="9att25W2R8FLM5yaxXD5-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sfxNwk7BuR1qC2Qj_iVI-66" value="Course ID" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="810" y="422.5" width="100" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="sfxNwk7BuR1qC2Qj_iVI-68" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.9;entryY=1.017;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;startFill=0;" edge="1" parent="1" source="sfxNwk7BuR1qC2Qj_iVI-65" target="9att25W2R8FLM5yaxXD5-78">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
