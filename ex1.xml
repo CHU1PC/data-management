@@ -167,14 +167,17 @@
         <mxCell id="9att25W2R8FLM5yaxXD5-78" value="&lt;div&gt;Elective&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="350" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9att25W2R8FLM5yaxXD5-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="9att25W2R8FLM5yaxXD5-79" target="13">
+        <mxCell id="9att25W2R8FLM5yaxXD5-81" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="9att25W2R8FLM5yaxXD5-79" target="13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9att25W2R8FLM5yaxXD5-79" value="&lt;div&gt;Compulsory&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="510" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="525" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9att25W2R8FLM5yaxXD5-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.32;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;startFill=0;" edge="1" parent="1" source="9att25W2R8FLM5yaxXD5-78" target="13">
+        <mxCell id="9att25W2R8FLM5yaxXD5-80" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.32;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;startFill=0;" edge="1" parent="1" source="9att25W2R8FLM5yaxXD5-78" target="13">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9att25W2R8FLM5yaxXD5-82" value="includes" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="480" y="160" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
