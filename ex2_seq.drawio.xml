@@ -80,7 +80,7 @@
         <mxCell id="enFJfkHMMc0IbwfuAJFq-25" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;endArrow=none;startFill=0;" edge="1" parent="1" source="enFJfkHMMc0IbwfuAJFq-21" target="enFJfkHMMc0IbwfuAJFq-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="enFJfkHMMc0IbwfuAJFq-21" value="task service" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+        <mxCell id="enFJfkHMMc0IbwfuAJFq-21" value="task service: taskService" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
           <mxGeometry x="111" y="-255" width="147" height="33" as="geometry" />
         </mxCell>
         <mxCell id="enFJfkHMMc0IbwfuAJFq-26" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;endArrow=block;endFill=1;" edge="1" parent="1" target="enFJfkHMMc0IbwfuAJFq-5">
